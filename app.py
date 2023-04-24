@@ -1,5 +1,3 @@
-!pip install streamlit
-
 import streamlit as st
 from textblob import TextBlob
 import matplotlib.pyplot as plt
